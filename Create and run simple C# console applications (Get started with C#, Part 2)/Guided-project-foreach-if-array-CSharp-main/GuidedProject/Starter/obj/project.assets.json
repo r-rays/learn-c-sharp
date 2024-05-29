@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rays\\Documents\\GitHub\\learn-c-sharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\Rays\\Documents\\GitHub\\learn-c-sharp\\Create and run simple C# console applications (Get started with C#, Part 2)\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "C:\\Users\\Rays\\Documents\\GitHub\\learn-c-sharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+      "projectPath": "C:\\Users\\Rays\\Documents\\GitHub\\learn-c-sharp\\Create and run simple C# console applications (Get started with C#, Part 2)\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\Rays\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rays\\Documents\\GitHub\\learn-c-sharp\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\obj\\",
+      "outputPath": "C:\\Users\\Rays\\Documents\\GitHub\\learn-c-sharp\\Create and run simple C# console applications (Get started with C#, Part 2)\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rays\\AppData\\Roaming\\NuGet\\NuGet.Config"
