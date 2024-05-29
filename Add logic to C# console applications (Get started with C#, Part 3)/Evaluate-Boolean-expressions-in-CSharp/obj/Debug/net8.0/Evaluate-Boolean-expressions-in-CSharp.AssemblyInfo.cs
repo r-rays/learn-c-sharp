@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evaluate-Boolean-expressions-in-CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1145ae98cc62703965d2dd0eb8577f6c8637f4ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1141b0a4e848dc256bc179c6dc9039fbc73672c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evaluate-Boolean-expressions-in-CSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evaluate-Boolean-expressions-in-CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
